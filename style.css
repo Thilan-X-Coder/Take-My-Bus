@@ -1,0 +1,44 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+
+
+.login-text{
+    float: left;
+    font-size: 40px;
+    border-bottom: 6px solid #0470f4;
+    margin-bottom: 50px;
+    padding: 13px 0;
+}
+.input-group{
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid #0470f4;
+    color: black;
+}
+
+.input-group i{
+    width: 25px;
+    float: left;
+    text-align: center;
+}
+.input-group input{
+    border: none;
+    outline: none;
+    background: none;
+    color: rgb(4, 4, 4);
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin: 0 10px;
+}
+
+
+.Login-register-text{
+    color: rgb(0, 0, 0);
+}
+.btn{
+    width: 100%;
+}
